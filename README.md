@@ -1,116 +1,106 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm HARSH MURUSKAR</h1>
-<h3 align="center">Java Full Stack Developer (AI)</h3>
+
+
+
+  <img src="https://img.shields.io/badge/AI%20Integration-111827?style=for-the-badge&logo=openai&logoColor=00FFFF" alt="AI Integration" />
+</p>
+
+---
+
+## Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <strong>Languages</strong>
+      <br /><br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" alt="Java" />
+    </td>
+    <td align="center" width="220">
+      <strong>Frontend</strong>
+      <br /><br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" alt="React" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42" alt="HTML5" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42" alt="CSS3" />
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42" alt="Tailwind CSS" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="42" alt="Bootstrap" />
+    </td>
+    <td align="center" width="160">
+      <strong>Backend</strong>
+      <br /><br />
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="42" alt="Spring Boot" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <strong>Databases</strong>
+      <br /><br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" alt="MySQL" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB" />
+    </td>
+    <td align="center" width="220">
+      <strong>Tools</strong>
+      <br /><br />
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" alt="Git" />
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="42" alt="VS Code" />
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" alt="Postman" />
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" alt="Figma" />
+      <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="42" alt="Vite" />
+    </td>
+    <td align="center" width="160">
+      <strong>DevOps</strong>
+      <br /><br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" alt="Docker" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Harshmuruskar">
-    <img src="https://komarev.com/ghpvc/?username=Harshmuruskar&label=Profile%20views&color=00FFFF&style=flat-square" alt="Harshmuruskar's profile views" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harshmuruskar&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&cache_seconds=7200" alt="Harsh's GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Harshmuruskar&theme=github-dark-blue&hide_border=true&border_radius=10&cache_seconds=86400" alt="Harsh's GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harshmuruskar&langs_count=8&layout=compact&theme=github_dark&hide_border=true&border_radius=10&cache_seconds=7200" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harshmuruskar&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshmuruskar&theme=github-dark&hide_border=true&radius=10" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshmuruskar&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="GitHub trophies" />
+</p>
+
+---
+
+## Current Direction
+
+- Building stronger REST APIs with **Spring Boot**.
+- Improving frontend experiences with **React.js** and modern CSS.
+- Learning how to connect **Generative AI** with practical full stack products.
+- Growing projects that show real-world backend, UI, database, and deployment skills.
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harsh-muruskar-7804ba1ab">
+    <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Muruskar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-## 📌 About Me
-- 🌱 I’m currently learning SpringBoot, GenAI
-- 💬 Ask me about Java Spring Boott, ReactJSs
-- 📫 How to reach me: harshmuruskar786@gmail.com
-
-
-## 🧠 My Focus Areas
-- Web Development
-- Backend Development
-- Integration of AI in Full Stack Websites
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Harshmuruskar">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harshmuruskar&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="Harshmuruskar's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Harshmuruskar&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Harshmuruskar's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Harshmuruskar&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="HARSH MURUSKAR's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshmuruskar&theme=github_dark&radius=10" alt="Harshmuruskar's Activity Graph" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/Harshmuruskar">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harshmuruskar&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=Harshmuruskar)
-<br/>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="www.linkedin.com/in/harsh-muruskar-7804ba1ab">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
   <a href="mailto:harshmuruskar786@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   <a href="https://3-d-portfolio-virid-six.vercel.app/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+    <img src="https://img.shields.io/badge/Portfolio-3D%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=90&section=footer" alt="Footer wave" />
+</p>
