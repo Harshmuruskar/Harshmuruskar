@@ -83,7 +83,7 @@
 - Building stronger REST APIs with **Spring Boot**.
 - Improving frontend experiences with **React.js** and modern CSS.
 - Learning how to connect **Generative AI** with practical full stack products.
-- Growing projects that show real-world backend, UI, database, and deployment skills.
+- Growing projects that show real-world backend, UI, database, and deployment skills
 
 ---
 
